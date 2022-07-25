@@ -53,6 +53,8 @@ iFrame {
 }
 
 a button {
+    position: absolute;
+    bottom: 22vh;
     display: block;
     width: 200px;
     height: 50px;
