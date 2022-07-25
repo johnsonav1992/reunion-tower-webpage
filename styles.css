@@ -13,6 +13,9 @@ header {
     margin: auto;
     align-items: center;
     padding: 20px;
+    box-shadow: 5px 0px 10px rgb(42, 41, 41),
+                5px 0px 10px rgb(42, 41, 41),
+                5px 0px 10px rgb(42, 41, 41);
     
 }
 
